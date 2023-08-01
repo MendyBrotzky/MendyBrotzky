@@ -1,0 +1,48 @@
+
+
+
+body {
+  background-color: black;
+  color:white;
+  text-align: center;
+}
+
+.board-container {
+  margin: auto;
+}
+
+.cell {
+  font-size: 1.5em;
+  width: 2em;
+  height: 2em;
+}
+.modal-vic{
+  margin: auto;
+  height: 90px;
+  width: 200px;
+  background-color: rgb(186, 181, 181);
+  display: none;
+}
+
+.victory{
+  background-color: aqua;
+  text-align: center;
+  margin-top:30px;
+  }
+
+.modal{
+  margin: auto;
+  height: 90px;
+  width: 200px;
+  background-color: rgb(186, 181, 181);
+  display: none;
+}
+
+.game-over{
+background-color: aqua;
+text-align: center;
+margin-top:30px;
+}
+
+
+
